@@ -109,18 +109,19 @@ img {
     outline: 0;
     background: linear-gradient(to right, rgb(13, 58, 78), rgb(6, 110, 144));
     border-radius: 25px;
-    width: 100px;
+    width: 120px;
     height: 50px;
     cursor: pointer;
     color: white;
+    font-size: 15px;
 }
 
-@media (min-width: 635px) {
+@media (min-width: 665px) {
 .details {
     flex-direction: row;
 }
 }
-@media (min-width: 768px) {
+@media (min-width: 712px) {
 .weather {
     flex-direction: row;
     justify-content: space-around;

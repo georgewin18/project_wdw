@@ -118,6 +118,18 @@ img {
     font-size: 15px;
 }
 
+#back {
+    border: 0;
+    outline: 0;
+    background-color: rgb(155, 0, 0);
+    border-radius: 25px;
+    width: 120px;
+    height: 50px;
+    cursor: pointer;
+    color: white;
+    font-size: 15px;
+}
+
 @media (min-width: 665px) {
 .details {
     flex-direction: row;

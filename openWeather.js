@@ -1,4 +1,4 @@
-const key = ""
+const key = "43b73dc8290fbbde40baf39532cfa832"
 const url = "http://api.openweathermap.org/data/2.5/weather?&units=metric&q="
 
 const searchBox = document.querySelector('.searchBar input');
